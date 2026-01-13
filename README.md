@@ -5,7 +5,7 @@ I'm currently enrolled at FTCC pursuing my Associate's in Engineering to hopeful
 
 ## My Foo (special interest) 🎯
 - I spend a lot of my free time Fishing
-- I also have a 1996 Ford that I work on
+- I also have a 1996 Ford that I work on in my free time 
 - I play video games and enjoy 3d designing in software such as Fusion 3D and Solidworks
 
 ## Currently Learning
