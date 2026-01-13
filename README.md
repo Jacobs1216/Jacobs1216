@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jacob Simmons.
 
-<!--
-**Jacobs1216/Jacobs1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm currently enrolled at FTCC pursuing my Associate's in Engineering to hopefully transfer to NC State University and get my Bachelor's in Mechanical Engineering 
 
-Here are some ideas to get you started:
+## My Foo (special interest) 🎯
+- I spend a lot of my free time Fishing
+- I also have a 1996 Ford that I work on
+- I play video games and enjoy 3d designing in software such as Fusion 3D and Solidworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C++
+
+## Fun Fact
+- I have a side gig of buying, fixing, and reselling small engine machines from pressure washers up to dirt bikes and ATVs on Facebook Marketplace
+
+## Find Me
+- 📫 Right here on GitHub!
