@@ -1,15 +1,15 @@
 # Hi, I'm Jacob Simmons.
 
 ## About Me
-I'm currently enrolled at FTCC pursuing my Associate's in Engineering to hopefully transfer to NC State University and get my Bachelor's in Mechanical Engineering 
+I'm currently enrolled at FTCC pursuing my Associate's in Engineering 
 
 ## My Foo (special interest) 🎯
-- I spend a lot of my free time Fishing
-- I also have a 1996 Ford that I work on in my free time 
-- I play video games and enjoy 3d designing in software such as Fusion 3D and Solidworks
+- I spend a lot of my free time Fishing, as well as doing engine/restoration work on personal projects such as a 1996 Ford truck I recently inherited. I also play video games like Escape from Tarkov, Arc Raiders, and Snowrunner
 
 ## Currently Learning
 - C++
+- Calculus II
+- Physics I
 
 ## Fun Fact
 - I have a side gig of buying, fixing, and reselling small engine machines from pressure washers up to dirt bikes and ATVs on Facebook Marketplace
